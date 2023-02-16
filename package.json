@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {},
   "keywords": [],
-  "author": "",
+  "author": "Samuel Freitas <samuel.sfdf@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.30.0"
